@@ -54,7 +54,8 @@ export const Intro = () => {
         className="text-muted-foreground max-w-xl"
       >
         Scientific Writer | Researcher <br />
-				Translating complex biological research into clear, structured and user-focused documentation.
+        Translating complex biological research into clear, structured and
+        user-focused documentation.
       </motion.p>
       <motion.div
         initial={{ opacity: 0, y: 100 }}

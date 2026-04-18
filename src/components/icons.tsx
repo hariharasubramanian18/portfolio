@@ -10,9 +10,9 @@ import {
   Linkedin,
   LucideProps,
   Moon,
+  PenLine,
   Star,
   Sun,
-  PenLine,
 } from 'lucide-react';
 
 export const Icons = {
