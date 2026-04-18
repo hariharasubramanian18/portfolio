@@ -66,7 +66,7 @@ export const Intro = () => {
         className="flex flex-row gap-2"
       >
         <Button variant="outline" size="lg" className="hidden sm:flex" asChild>
-          <a href="/hariharasubramanian.pdf" download>
+          <a href="/HariharaSubramanian.pdf" download>
             Download CV <Icons.download className="ml-2 size-4" />
           </a>
         </Button>
